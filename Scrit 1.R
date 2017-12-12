@@ -1,3 +1,2 @@
 "texto qualquer"
-"suas alteracoes"
-"outra alteracao"
+"suas alteracoes" "outra alteracao"
